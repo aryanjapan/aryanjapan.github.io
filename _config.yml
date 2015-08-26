@@ -1,0 +1,16 @@
+# Site settings
+title: Aryan Japan
+header-img: "https://dl.dropboxusercontent.com/u/103844101/Blog%20Rainpress/blog-header.jpg"
+email: anil@aryan.co.jp
+description: "スローガン的なものをかいたらいいんじゃないかなー"
+baseurl: ""
+url: "http://aryanjapan.github.io"
+comments: true
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+paginate: 13
+future: true
+exclude: ["less","node_modules", "buffer", "Gruntfile.js","package.json","README.md"]
